@@ -1,0 +1,6 @@
+ranger/plugins/
+iterm2/
+nvim/plugged/
+nvim/autoload/
+nvim/tmp/
+coc/
